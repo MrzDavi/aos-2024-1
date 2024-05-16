@@ -17,3 +17,4 @@ const getMessageModel = (sequelize, { DataTypes }) => {
 };
 
 export default getMessageModel;
+//
